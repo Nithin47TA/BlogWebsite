@@ -1,3 +1,6 @@
+
+
+
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -31,10 +34,36 @@
 .footer p {
 	margin-top: 25px;
 	font-size: 12px;
-  color: #fff;
+    color: #fff;
 }
 
 .list{
 
     display: inline-block;
+}
+.contact ul {
+    margin-top: 2em;
+    font-size: 18px;
+    font-weight: bold;
+    list-style: none;
+    letter-spacing: 0.05em;
+    
+
+
+}
+.contact li {
+    padding-bottom: 0.5em;
+
+}
+.contact a {
+   
+    color: #3366BB;
+    
+}
+
+a:hover {
+    text-align: center;
+    text-decoration: solid;
+    color:#498afb;
+    
 }
